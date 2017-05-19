@@ -1,0 +1,130 @@
+** MDE - Measure Distance Exponent	Build: Aug  2 2005 11:04:25
+
+**  Running at Thu May 18 19:35:08 2017
+** MDE - Measure Distance Exponent	Build: Aug  2 2005 11:04:25
+
+**  Running at Thu May 18 19:36:55 2017
+** MDE - Measure Distance Exponent	Build: Aug  2 2005 11:04:25
+
+**  Running at Thu May 18 19:44:07 2017
+** MDE - Measure Distance Exponent	Build: Aug  2 2005 11:04:25
+
+**  Running at Thu May 18 19:44:41 2017
+#Number of Objects Readed=5507
+** MDE - Measure Distance Exponent	Build: Aug  2 2005 11:04:25
+
+**  Running at Thu May 18 19:46:07 2017
+#Number of Objects Readed=5507
+#Fast calculation (Box Count)
+#Number of Objects Processed=5507
+#Time to measure Distance Exponent D:   0.02 seconds.
+#Distance Exponent:
+#For minimum error (error=0.0006) until 5 points=1.890562
+#replot   1.8906*x+ 12.2615
+#Number of Points in Distance graphic: 12
+3.007908 	16.534222
+2.314761 	15.592405
+1.621613 	14.786058
+0.928466 	13.746127
+0.235319 	12.653780
+-0.457828 	11.448877
+-1.150975 	10.137611
+-1.844122 	8.722743
+-2.537270 	7.096721
+-3.230417 	5.087596
+-3.923564 	3.555348
+-4.616711 	2.639057
+-5.309858 	1.791759
+# Total summations=    25084184
+end
+#----------------------------------------
+** MDE - Measure Distance Exponent	Build: Aug  2 2005 11:04:25
+
+**  Running at Thu May 18 19:47:03 2017
+#Number of Objects Readed=5507
+#Fast calculation (Box Count)
+#Number of Objects Processed=5507
+#Time to measure Distance Exponent D:   0.02 seconds.
+#Distance Exponent:
+#For minimum error (error=0.0006) until 5 points=1.890562
+#replot   1.8906*x+ 12.2615
+#Number of Points in Distance graphic: 12
+3.007908 	16.534222
+2.314761 	15.592405
+1.621613 	14.786058
+0.928466 	13.746127
+0.235319 	12.653780
+-0.457828 	11.448877
+-1.150975 	10.137611
+-1.844122 	8.722743
+-2.537270 	7.096721
+-3.230417 	5.087596
+-3.923564 	3.555348
+-4.616711 	2.639057
+-5.309858 	1.791759
+# Total summations=    25084184
+end
+#----------------------------------------
+** MDE - Measure Distance Exponent	Build: Mar 16 2006 10:52:40
+
+**  Running at Thu May 18 19:48:57 2017
+#Number of Objects Readed=5507
+#Fast calculation (Box Count)
+#Number of Objects Processed=5507
+#Time to measure Distance Exponent D:   0.03 seconds.
+#Distance Exponent:
+#For minimum error (error=0.0006) until 5 points=1.890562
+#replot   1.8906*x+ 12.2615
+#Number of Points in Distance graphic: 12
+3.007908 	16.534222
+2.314761 	15.592405
+1.621613 	14.786058
+0.928466 	13.746127
+0.235319 	12.653780
+-0.457828 	11.448877
+-1.150975 	10.137611
+-1.844122 	8.722743
+-2.537270 	7.096721
+-3.230417 	5.087596
+-3.923564 	3.555348
+-4.616711 	2.639057
+-5.309858 	1.791759
+# Total summations=    25084184
+end
+#----------------------------------------
+** MDE - Measure Distance Exponent	Build: Mar 16 2006 10:52:40
+
+**  Running at Fri May 19 08:59:36 2017
+#Number of Objects Readed=7
+#Fast calculation (Box Count)
+#Number of Objects Processed=7
+#Time to measure Distance Exponent D:   0.00 seconds.
+#Distance Exponent:
+#For minimum error (error=0.0000) until 5 points=4.392317
+#replot   4.3923*x+  6.0890
+#Number of Points in Distance graphic: 3
+-0.693147 	3.044522
+-1.386294 	0.000000
+-2.079442 	0.000000
+-2.772589 	0.000000
+# Total summations=          23
+end
+#----------------------------------------
+** MDE - Measure Distance Exponent	Build: Mar 16 2006 10:52:40
+
+**  Running at Fri May 19 09:00:51 2017
+#Number of Objects Readed=7
+#Fast calculation (Box Count)
+#Number of Objects Processed=7
+#Time to measure Distance Exponent D:   0.00 seconds.
+#Distance Exponent:
+#For minimum error (error=0.0000) until 5 points=4.392317
+#replot   4.3923*x+  6.0890
+#Number of Points in Distance graphic: 3
+-0.693147 	3.044522
+-1.386294 	0.000000
+-2.079442 	0.000000
+-2.772589 	0.000000
+# Total summations=          23
+end
+#----------------------------------------
